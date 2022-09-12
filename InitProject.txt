@@ -1,2 +1,3 @@
 npm init
-npm instal express
+npm install express
+npm install typescript
