@@ -2,3 +2,6 @@ npm init
 npm install express
 npm install @types/express
 npm install typescript -D
+npx tsc --init - Cria o tsconfig
+*------- Configurar o tsconfig -------*
+npm i ts-node-dev -D
