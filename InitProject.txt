@@ -11,3 +11,5 @@ npx prisma migrate dev
 npx prisma studio - abre um banco de dados do prisma
 npm i @prisma/client
 "dev": "tsnd --exit-child src/server.ts" - utilizamos o script assim quando usamos o prisma
+npm i cors
+npm i @types/cors -D
